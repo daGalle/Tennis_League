@@ -1,5 +1,5 @@
 # Tennis_Match_Commands
-## El repositorio contiene un sistema desarrollado en Java. La aplicación usa comandos para su funcionamiento que son los siguientes:
+## El repositorio contiene un sistema desarrollado en Java. La aplicación sirve para la gestión de partidos y torneos de tenis por parte de los arbitros. El uso se hace a traves de comandos que son los siguientes:
  - Registrar un arbitro
     > createRefree name:<nombre>;password:<contraseña>
  - Permite al árbitro iniciar sesión
